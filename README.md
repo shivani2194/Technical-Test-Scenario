@@ -24,5 +24,6 @@ Cypress UI should pop up and then click on "Run all spec"
 
   ```  bash
   npm init
+  npm install node
   npm run test
   ```
