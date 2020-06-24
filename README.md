@@ -16,9 +16,9 @@ GitHub: https://github.com/shivani2194/Technical-Test
 
 Install Node and NPM on your machine
 
-In Technical-Test directory open terminal- run "npm init"
+In Technical-Test directory open terminal- run "npm init" and run "npm install node"
 
-Then run "npm run cypress:open"
+Run Cypress by typing "npm run test"
 
 Cypress UI should pop up and then click on "Run all spec"
 
